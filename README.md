@@ -1,3 +1,2 @@
 # Master_Thesis
-## Some emotion detection models and experiment results
-### Text emotion detection model is Bert , Audio one is gradient boosting classifier and video one is Emotion-FAN
+## Modified Video emotion detection models (Source:[Emotion-FAN](https://github.com/Open-Debin/Emotion-FAN)) and some of experiment results
